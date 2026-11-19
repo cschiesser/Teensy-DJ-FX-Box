@@ -1,4 +1,4 @@
-# Teensy DJ FX Box
+# Teensy DJ effects Box
 
 A hardware effects unit for DJing, built on a **Teensy 4.1** with the
 **PJRC Audio Shield**. Line audio comes in, runs through a filter, echo, and
